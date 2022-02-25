@@ -1,7 +1,7 @@
 # my-first-github-repository
 My first Git Hub repository
-Updating Readme.md
 
+Update of Feature-2
 
 Updates in README file for 3-way-merge
 
