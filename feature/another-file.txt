@@ -1,1 +1,5 @@
 Sample File in  feature folder.
+
+
+
+Test - 3-way merge with remote and local repository.
